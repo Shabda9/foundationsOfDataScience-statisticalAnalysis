@@ -3,10 +3,10 @@
 ## Project Title: Statistical Analysis of Provided Datasets
 
 ### Team Members:
-- Rohan Chhetry
-- Shabda Manandhar
-- Shiva Giri
-- Sunil Gautam
+- Rohan Chhetry, s375060
+- Shabda Manandhar, s374911
+- Shiva Giri, s375598
+- Sunil Gautam, s375459
 
 ### Course: 
 Foundation of Data Science (HIT120)
@@ -82,7 +82,7 @@ These well-being indicators were scored on a scale from 1 to 5, representing:
 - VS code
 
 ## Deliverables:
-1. Github Link:[Foundations of Data Science](https://github.com/Shabda9/foundationsOfDataScience-statisticalAnalysis)
-2. Youtube Link:[Foundation of Data Science](#)
+1. Github Link: [ Foundations of Data Science](https://github.com/Shabda9/foundationsOfDataScience-statisticalAnalysis)
+2. Youtube Link: [ Foundation of Data Science](https://youtu.be/20erjZ1pJLI)
 
 ---
